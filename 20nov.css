@@ -1,0 +1,45 @@
+/* BODY{
+    font-size: larger;
+    font-style: italic;
+
+}
+.BOX1{
+    flex-direction: row;
+    display: flex;
+}
+.BOX2{
+    display: inline-block;
+    font-size: larger;
+
+}
+.BOX3{
+    display: inline-block;
+}
+.BOX4{
+    display: inline-block;
+}
+.BOX5{
+    display: inline-block;
+}
+.BOX6{
+    display: inline-block;
+
+} */
+.FLEX-CONTAINER{
+    background-color: chocolate;
+    /* display: flex;
+    flex-wrap: wrap;
+    height: 500px;
+    overflow: scroll; */
+    display: flex;
+    flex-flow: wrap;
+    align-content: flex-start;
+}
+.FLEX-CONTAINER .BOX{
+background-color: darkgreen;
+width: 100px;
+margin: 10px;
+line-height: 75px;
+text-align: center;
+font-size:30px ;
+}

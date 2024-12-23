@@ -1,0 +1,47 @@
+/* ol {
+     list-style-type: lower-roman;}
+     ul{
+        ul { list-style-image: url("image/star");} 
+        li { margin: 10px 0px 0px 0px;}
+     } */
+     /* body{
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: rgb(128,0,0) ;
+     }
+table{
+    width: 600px;
+
+}
+th,
+td{ 
+    padding: 7px 10px 10px 10px ;
+}
+th{
+  text-transform: uppercase;
+         letter-spacing: 0.1em; 
+         font-size: 90%; 
+         border-bottom: 2px solid rgb(112,128,144);
+          border-top: 1px solid rbg(169,169,169); 
+          text-align: left; 
+        }
+           tr.even{
+            background-color: rgb(192,192,192);}
+           
+           
+             tr:hover{
+             background-color: rgb(192,192,192);
+            }
+             .money {
+            
+              text-align: right;
+             }
+           */
+             td { border: 1px solid #0088dd;
+    padding: 15px;
+}
+ table.one { 
+    empty-cells: show;
+} 
+table.two { 
+    empty-cells: hide;
+}
